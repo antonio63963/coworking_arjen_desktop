@@ -69,13 +69,13 @@
 .politics {
   display: flex;
   justify-content: flex-end;
+  width: 33.5%;
 }
 .politics-wrapper-links {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   row-gap: 10px;
-  width: 33.5%;
   min-width: 280px;
 }
 .politics-wrapper-links > a {
