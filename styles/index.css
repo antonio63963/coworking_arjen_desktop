@@ -36,12 +36,13 @@ legend {
 }
 
 button {
-  padding: 20px 50px;
+  padding: 20px 70px;
   border: 1px solid var(--dark);
   text-transform: uppercase;
   color: var(--dark);
   background-color: transparent;
   font-size: 17px;
+  line-height: 17px;
   font-family: "Open Sans";
 }
 button:hover {

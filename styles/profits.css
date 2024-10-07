@@ -84,3 +84,9 @@
   font-weight: bold;
   font-style: italic;
 }
+
+@media screen and (max-width: 900px) {
+  .profit-card-text {
+    font-size: 16px;
+  }
+}
