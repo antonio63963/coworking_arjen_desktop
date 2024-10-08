@@ -50,6 +50,9 @@
   max-width: 420px;
   font-size: 16px;
 }
+.profit-card-text.short {
+  max-width: 390px;
+}
 /* VIDEO */
 .profits-video-block {
   width: 924px;
